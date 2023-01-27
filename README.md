@@ -19,8 +19,16 @@ code.
 ## Instructions
 
 Each of the comments in the `Lab.java` file will represent a section from these
-instructions. After you complete a section, run your program and ensure
-everything compiles and prints out properly.
+instructions.
+
+## Testing Your Code
+
+During each section, feel free to run the program as much as you want to ensure
+the output is what you expect. You may also run the program with the debugger to
+see the variables in the Java Visualizer. You could also use the browser based
+visualizer
+[here](https://pythontutor.com/java.html#code=public%20class%20Lab%20%7B%0A%20%20%20%20public%20static%20void%20main%28String%5B%5D%20args%29%20%7B%0A%20%20%20%20%20%20%20%20//%20Variables%0A%0A%20%20%20%20%20%20%20%20//%20Combine%20Strings%20Section%0A%0A%20%20%20%20%20%20%20%20//%20Arithmetic%20Operators%20Section%0A%0A%20%20%20%20%20%20%20%20//%20Relational%20Operators%20Section%0A%0A%20%20%20%20%20%20%20%20//%20Compound%20Assignment%20Operators%20Section%0A%0A%20%20%20%20%7D%0A%7D&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=java&rawInputLstJSON=%5B%5D&textReferences=false)
+as well.
 
 ### Variables
 
@@ -35,12 +43,9 @@ program.
   "Thank you for visiting, ".
 - Declare and initialize a `String` variable called `name` to the value "Eric".
 
-You may run your program as much as you want when declaring and initializing
-variables within this section. You may also run the program with the debugger to
-see the variables in the Java Visualizer.
-
 Run your program after you have finished declaring and initializing all
-variables in this section.
+variables in this section. This section produces no output as there are no print
+statements, but you should still make sure it runs and compiles without error.
 
 ### Combine Strings Section
 
@@ -54,15 +59,13 @@ multiple `String` values.
 - The program should print `Thank you for visiting, Eric` when it executes the
   print line.
 
-Run your program after you have finished this section to confirm the output is
-what you expect.
-
 ### Arithmetic Operators Section
 
 In this section, you will practice using various arithmetic operators on `int`
 data types.
 
 - Initialize `x` to the sum of `y` and `z`.
+  - Remember, at this point, `x` has been declared but not initialized.
 - Print out the variable `x` to the console using `System.out.println()`.
 - Assign `x` to the quotient of `z` divided by `y`.
 - Print out the variable `x` to the console.
@@ -78,12 +81,6 @@ data types.
 4
 0
 ```
-
-You may run your program as much as you want within this section. You may also
-run the program with the debugger to see the variables in the Java Visualizer.
-
-Run your program after you have finished this section to confirm the output is
-what you expect.
 
 ### Relational Operators Section
 
@@ -104,25 +101,20 @@ true
 false
 ```
 
-You may run your program as much as you want within this section. You may also
-run the program with the debugger to see the variables in the Java Visualizer.
-
-Run your program after you have finished this section to confirm the output is
-what you expect.
-
 ### Compound Assignment Operators Section
 
 In this section, you will practice using some compound assignment operators with
 `int` data types.
 
 - Re-assign `x` to the value of 4.
-- Use the addition compound assignment operator to re-assign `x` with the value
-  of `y` added to `x`.
+- Use the addition compound assignment operator (`+=`) to re-assign `x` with the
+  value of `y` added to `x`.
 - Print out the variable `x` to the console using `System.out.println()`.
-- Use the decrement operator to re-assign `x` to decrease its value by 1.
+- Use the decrement operator (`--`) to re-assign `x` to decrease its value
+  by 1.
 - Print out the variable `x` to the console.
-- Use the multiplication compound assignment operator to re-assign `x` with the
-  value of `x` times `z`.
+- Use the multiplication compound assignment operator (`*=`) to re-assign `x`
+  with the value of `x` times `z`.
 - Print out the variable `x` to the console.
 - In this section alone, the program should print:
 
@@ -131,12 +123,6 @@ In this section, you will practice using some compound assignment operators with
 5
 40
 ```
-
-You may run your program as much as you want within this section. You may also
-run the program with the debugger to see the variables in the Java Visualizer.
-
-Run your program after you have finished this section to confirm the output is
-what you expect.
 
 ## Expected Output
 

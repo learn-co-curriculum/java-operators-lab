@@ -4,6 +4,8 @@ public class Lab {
 
         // Combine Strings Section
 
+        // Arithmetic Operators Section
+
         // Relational Operators Section
 
         // Compound Assignment Operators Section
