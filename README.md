@@ -58,6 +58,10 @@ multiple `String` values.
   `System.out.println()`.
 - The program should print `Thank you for visiting, Eric` when it executes the
   print line.
+- Here is a visualization of memory and how everything should look come this
+  section:
+
+![memory-combine-strings-section](https://curriculum-content.s3.amazonaws.com/java-mod-1/operators-lab/operators-lab-combine-strings-section-memory.png)
 
 ### Arithmetic Operators Section
 
@@ -82,6 +86,11 @@ data types.
 0
 ```
 
+Here is a visualization of memory and how everything should look come this
+section:
+
+![memory-arithmetic-operators-section](https://curriculum-content.s3.amazonaws.com/java-mod-1/operators-lab/operators-lab-arithemtic-section.png)
+
 ### Relational Operators Section
 
 In this section, you will practice using relational operators with `int` data
@@ -100,6 +109,11 @@ true
 true
 false
 ```
+
+Here is a visualization of memory and how everything should look come this
+section:
+
+![memory-relational-operators-section](https://curriculum-content.s3.amazonaws.com/java-mod-1/operators-lab/operators-lab-relational-section.png)
 
 ### Compound Assignment Operators Section
 
@@ -123,6 +137,11 @@ In this section, you will practice using some compound assignment operators with
 5
 40
 ```
+
+Here is a visualization of memory and how everything should look come this
+section:
+
+![memory-compound-assignment-operators-section](https://curriculum-content.s3.amazonaws.com/java-mod-1/operators-lab/operators-lab-compound-assignment-operators-section.png)
 
 ## Expected Output
 
